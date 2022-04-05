@@ -1,0 +1,29 @@
+id: P49AB4705
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG1668
+  instance_id: http://purl.bdrc.io/resource/IE1KG1668
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - མི་ཉག་དང་ར་ཐིས་དགོན་གྱི་བྱུང་བ་བརྗོད་པ་ཆུ་དྭངས་ནོར་བུའི་ཕུང་པོ།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P1KG1669
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    f570d824c0e64daa8f8f3caf45235c21:
+      title: པོད ༡་མི་ཉག་དང་ར་ཐིས་དགོན་གྱི་བྱུང་བ་བརྗོད་པ་ཆུ་དྭངས་ནོར་བུའི་ཕུང་པོ
+      volume_number: 1
+      base_file: UT1KG1668_I1KG1846_0000.txt
+      reference: http://purl.bdrc.io/resource/VL70B969E6CA222C7D
+      image_group: I1KG1846
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG1668
+  - http://purl.bdrc.io/resource/W1KG1668
+  ocr_software: Namsel
+created_at: '2021-12-22T10:36:20.202326'
+last_modified_at: '2021-12-22T10:36:20.202333'
